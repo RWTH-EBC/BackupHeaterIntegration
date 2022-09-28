@@ -583,7 +583,7 @@
 \definecolor{textcolor}{rgb}{0.000000,0.000000,0.000000}%
 \pgfsetstrokecolor{textcolor}%
 \pgfsetfillcolor{textcolor}%
-\pgftext[x=0.572840in,y=0.660802in,,top]{\color{textcolor}\rmfamily\fontsize{10.000000}{12.000000}\selectfont -20}%
+\pgftext[x=0.572840in,y=0.660802in,,top]{\color{textcolor}\rmfamily\fontsize{10.000000}{12.000000}\selectfont \(\displaystyle -\)20}%
 \end{pgfscope}%
 \begin{pgfscope}%
 \pgfsetbuttcap%
@@ -608,7 +608,7 @@
 \definecolor{textcolor}{rgb}{0.000000,0.000000,0.000000}%
 \pgfsetstrokecolor{textcolor}%
 \pgfsetfillcolor{textcolor}%
-\pgftext[x=1.600643in,y=0.660802in,,top]{\color{textcolor}\rmfamily\fontsize{10.000000}{12.000000}\selectfont -10}%
+\pgftext[x=1.600643in,y=0.660802in,,top]{\color{textcolor}\rmfamily\fontsize{10.000000}{12.000000}\selectfont \(\displaystyle -\)10}%
 \end{pgfscope}%
 \begin{pgfscope}%
 \pgfsetbuttcap%

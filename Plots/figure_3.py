@@ -150,7 +150,7 @@ def plot_motivation(complex=False):
         labelbottom=False)
     # Frosting
     x_ticks = list(np.arange(T_Amb_min, T_Amb_max + 20, 10))
-    x_tick_labels = [str(x_tick) for x_tick in x_ticks]
+    x_tick_labels = [f"{'$-$' if x_tick < 0 else ''}{abs(x_tick)}" for x_tick in x_ticks]
     ax[1].axvline(T_Biv, color="black")
     minor_x_tick_labels = []
     minor_x_ticks = []
